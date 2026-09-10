@@ -3,5 +3,5 @@ Git is free software distributed under the GPL.
 ysnb
 zdjd
 kskbl
-simple
+and
 
